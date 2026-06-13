@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-06-03",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "video_sources_extracted_from_uploaded_js": 20,
+  "image_reference_rule": "HTML references top-level 1.jpg to 150.jpg by movie sequence; no image files were fabricated.",
+  "analytics_inserted_in_html": true
+}
